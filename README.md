@@ -6,7 +6,7 @@ In first Activity i load Random Photos and in second Activity i load new Photos 
 
 ## Demo
 
-Some screenShots of Unsplash Api App:
+screenShot of Password Generator Api App:
 
 
 <p align="center">
