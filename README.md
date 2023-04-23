@@ -1,8 +1,7 @@
 # PasswordGeneratorApi
 
-In this project i use Unsplash Api ...<br />
-it has two Activity <br />
-In first Activity i load Random Photos and in second Activity i load new Photos (the latest one) <br /> and also in each Activity i show some details about every Photos in their card view.
+In this project i use Api to generate random passwords ...<br />
+it has two options (include numbers) and (include chars) <br />
 
 ## Demo
 
