@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.google.android.material.card.MaterialCardView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/toast_container"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_margin="20dp"
+    app:cardBackgroundColor="@color/black"
+    app:cardCornerRadius="4dp"
+    app:cardElevation="8dp"
+    app:contentPadding="16dp">
+
+    <TextView
+        android:id="@+id/txt_toast"
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:drawableLeft="@drawable/ic_love"
+        android:drawablePadding="8dp"
+        android:text="Toast Content"
+        android:textColor="@color/white"
+        android:textSize="17sp"
+        android:textStyle="bold" />
+
+</com.google.android.material.card.MaterialCardView>
